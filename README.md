@@ -1,27 +1,5 @@
 <!-- Fondo animado estilo futurista -->
-<div style="background: linear-gradient(270deg, #0f0f0f, #1a1a40, #000000); background-size: 600% 600%; animation: GradientBG 15s ease infinite; padding: 2rem; border-radius: 10px; color: white; font-family: 'Courier New', monospace;">
-
-<style>
-@keyframes GradientBG {
-  0%{background-position:0% 50%}
-  50%{background-position:100% 50%}
-  100%{background-position:0% 50%}
-}
-a {
-  color: #00ffe0;
-  text-decoration: none;
-  transition: color 0.3s;
-}
-a:hover {
-  color: #ff00ff;
-}
-.icon {
-  display: inline-block;
-  margin-right: 10px;
-}
-</style>
-
-# 👾 Bienvenidos a mi universo digital
+# Bienvenidos a mi universo digital
 
 
 ## 💡 Sobre mí
