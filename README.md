@@ -24,8 +24,10 @@
 
 ## 📁 Proyectos Destacados
 
-🔹 <a href="https://github.com/tuusuario/proyecto1" target="_blank">Proyecto 1 — ⭐ Sistema de IA</a>  
-🔹 <a href="https://github.com/tuusuario/proyecto2" target="_blank">Proyecto 2 — 🚀 Web Futurista</a>
+🔹 <a href="https://emanuelpb123.github.io/VRhuergo/" target="_blank">⭐ Chalet Huergo VR</a>  
+🔹 <a href="https://emanuelpb123.github.io/VRoilsimu/" target="_blank">🚀 Simulador de preforacion en VR</a>
+🔹 <a href="https://emanuelpb123.github.io/F-16-Tour/" target="_blank">⭐ Tour de F-16 en VR</a>
+
 
 ---
 
