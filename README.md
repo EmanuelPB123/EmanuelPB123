@@ -21,26 +21,28 @@ a:hover {
 }
 </style>
 
-# 👾 Bienvenido a mi universo digital
+# 👾 Bienvenidos a mi universo digital
+
 
 ## 💡 Sobre mí
 
-🎯 Soy un desarrollador apasionado por la tecnología, la inteligencia artificial y la creación de experiencias visuales únicas.
+🎯 Soy un desarrollador apasionado por la tecnología, la inteligencia artificial y la creación de experiencias visuales únicas.🚀
 
-🚀 Siempre explorando el futuro con código.
 
 ## 🛠️ Tech Stack
 
-- ⚙️ **Lenguajes:** JavaScript, Python, TypeScript
-- 💻 **Frameworks:** React, Node.js, Next.js
-- 🌐 **Herramientas:** Git, Docker, VSCode, Linux
+- ⚙️ **Lenguajes:** HTML, CSS, JavaScript
+<!--- 💻 **Frameworks:** React, Node.js, Next.js-->
+- 🌐 **Herramientas:** VSCode
+
 
 ## 🌐 Encuéntrame en:
 
-- 🌍 <a href="https://tu-sitio.com" target="_blank">Mi Web Personal</a>
-- 🐦 <a href="https://twitter.com/tuusuario" target="_blank">Twitter</a>
+- 🌍 <a href="https://emanuelpb123.github.io/EmanuelWebV2/" target="_blank">EmanuelWebs</a>
+- 🐦 <a href="https://www.instagram.com/emanuelpb2024/" target="_blank">IG</a>
 - 💼 <a href="https://linkedin.com/in/tuusuario" target="_blank">LinkedIn</a>
-- 🧠 <a href="https://github.com/tuusuario" target="_blank">GitHub</a>
+- 🧠 <a href="https://github.com/EmanuelPB123/" target="_blank">GitHub</a>
+
 
 ## 📁 Proyectos Destacados
 
@@ -49,6 +51,6 @@ a:hover {
 
 ---
 
-🛰️ _"El futuro pertenece a quienes lo programan."_
+🛰️ _"El futuro pertenece a quienes trabajan."_
 
 </div>
